@@ -1,0 +1,23 @@
+{
+  "name": "hillel_playwright",
+  "version": "1.0.0",
+  "description": "hillel_playwright",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kolya-13/hillel_playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kolya-13/hillel_playwright/issues"
+  },
+  "homepage": "https://github.com/Kolya-13/hillel_playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.13"
+  }
+}
